@@ -1,1 +1,1 @@
-print("Hello world!!")
+print("Sun is a star!")
